@@ -5,10 +5,9 @@
 
 ### 👋 Welcome to my GitHub Profile!
 
-I am a passionate and enthusiastic **B.Tech Information Technology** student at Guru Nanak Dev Engineering College, Ludhiana. I enjoy solving real-world problems through programming and web development. With a strong foundation in **frontend and backend development**, I aspire to contribute to impactful projects and continuously enhance my skills.
-
----
-
+I am a passionate and enthusiastic **B.Tech Information Technology** student at Guru Nanak Dev Engineering College, Ludhiana. Passionate about web development and problem
+solving. With a strong interest in crafting innovative solutions and building impactful digital experiences, I am
+ eager to continuously learn, adapt, and contribute to the dynamic world of technology
 ### 🌟 **About Me**
 
 - 🎓 B.Tech in Information Technology (2021-2025), GPA: **9.20/10**  
